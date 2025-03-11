@@ -1,0 +1,12 @@
+c:\Users\VORPC\Desktop\opencv\C#\obj\Debug\net48\C#.csproj.AssemblyReference.cache
+c:\Users\VORPC\Desktop\opencv\C#\obj\Debug\net48\C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VORPC\Desktop\opencv\C#\obj\Debug\net48\C#.AssemblyInfoInputs.cache
+c:\Users\VORPC\Desktop\opencv\C#\obj\Debug\net48\C#.AssemblyInfo.cs
+c:\Users\VORPC\Desktop\opencv\C#\obj\Debug\net48\C#.csproj.CoreCompileInputs.cache
+c:\Users\VORPC\Desktop\C#\obj\Debug\net48\C#.csproj.AssemblyReference.cache
+c:\Users\VORPC\Desktop\C#\obj\Debug\net48\C#.csproj.SuggestedBindingRedirects.cache
+c:\Users\VORPC\Desktop\C#\obj\Debug\net48\C#.exe.config
+c:\Users\VORPC\Desktop\C#\obj\Debug\net48\C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VORPC\Desktop\C#\obj\Debug\net48\C#.AssemblyInfoInputs.cache
+c:\Users\VORPC\Desktop\C#\obj\Debug\net48\C#.AssemblyInfo.cs
+c:\Users\VORPC\Desktop\C#\obj\Debug\net48\C#.csproj.CoreCompileInputs.cache
